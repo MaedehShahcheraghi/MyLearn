@@ -1,0 +1,60 @@
+﻿@page
+@model MyLearn.Pages.Admin.Roles.IndexModel
+@{
+}
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">مدیریت نقش ها</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading ">
+                <a href="/Admin/Roles/CreateRole" class="btn btn-success">افزودن نقش جدید</a>
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline" role="grid">
+                      
+                        <br />
+                        <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example" aria-describedby="dataTables-example_info">
+                            <thead>
+                                <tr>
+                                    <th>نام نقش</th>
+                                  
+                                    <th>دستورات</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (var item in Model.Roles)
+                                {
+                                    <tr class="gradeA odd">
+                                        <td>@item.RoleTitle</td>
+                                      
+                                        <td>
+                                            <a class="btn btn-warning " href="/Admin/Roles/EditRole/@item.RoleId">ویرایش</a>
+                                            <a class="btn btn-danger " href="/Admin/Users/DeleteUser/@item.RoleId">حذف</a>
+                                        </td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+                   
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>

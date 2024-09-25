@@ -1,0 +1,76 @@
+﻿@using MyLearn.Core.Service.Course;
+@using MyLearn.Core.Service.UserService;
+@using MyLearn.DataLayer.Entities.Forum;
+@using TopLearn.Core.Convertors;
+@model List<Question>
+@inject ICourseService courseservice;
+@inject IUserService userService;
+
+<div class="container">
+<nav aria-label="breadcrumb">
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/"> تاپ لرن </a></li>
+        <li class="breadcrumb-item"><a href="/Forum/Questions">انجمن  </a></li>
+    </ul>
+</nav>
+</div>
+
+<div class="container">
+    @if (User.Identity.IsAuthenticated)
+    {
+        @if (ViewBag.CourseId != null)
+        {
+            @if (courseservice.GetCourseById((int)ViewBag.CourseId).CoursePrice == 0 || userService.InUserUsed((int)ViewBag.CourseId, User.Identity.Name))
+            {
+                <a asp-action="CreateQuestion" asp-route-id="@ViewBag.CourseId">پرسیدن سوال</a>
+            }
+        }
+
+    }
+    else
+    {
+        <div class="alert alert-info">
+            <p>چهت درج نظر سوال است ابتدا وارد سایت شوید.</p>
+        </div>
+    }
+    <div class="panel">
+        <div class="panel-heading">
+            <form asp-action="Index" class="form-inline " method="get">
+                <input type="hidden" value="@ViewBag.CourseId" name="id" />
+
+                <input class="form-control col-md-12 mx-4" name="filter" placeholder="دنبال چه سوالی میگردی؟" />
+
+
+                <input type="submit" class="btn btn-success " value="بگرد" />
+            </form>
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 col-sm-12 col-xs-12">
+            <div class="inner">
+                @foreach (var item in Model)
+                {
+                    <div class="panel">
+                        <div class="panel-heading">
+                            <h1 class="font-weight-bold">
+                                <a href="/Forum/ShowQuestion/@item.QuestionId">@item.QuestionTitle</a>
+                            </h1>
+                        </div>
+
+                        <div class="panel-footer">
+                            <img src="~/UserAvatar/@item.User.AvatarName" style="max-width: 50px; border-radius: 20px;" />
+                            @item.User.UserName|<a class="badge  badge-info" href="#">@item.Course.CourseTitle </a> |@item.CreateQusetion.ToShamsi()
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+        <div class="col-md-4 panel">
+            @await Component.InvokeAsync("PopularQuestionComponent")
+        </div>
+    </div>
+</div>
+

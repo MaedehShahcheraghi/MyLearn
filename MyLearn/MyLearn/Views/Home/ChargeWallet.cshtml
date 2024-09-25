@@ -1,0 +1,17 @@
+﻿@if (ViewBag.IsSuccess)
+{
+    <div class="alert alert-success">
+        <h1>پرداخت شماره @ViewBag.refcode  با موفقیت پرداخته شد. </h1>
+        <p>
+            برای مشاهده سبد خرید خود روی اینک زیر کلیک کنید.
+            <a class="alert-link" href="/UserPanel/Wallet">شماهده کیف پول</a>
+        </p>
+    </div>
+}else
+{
+    <div class="alert alert-success">
+        <h1>پرداخت شما با شکست مواجه شد. </h1>
+     
+    </div>
+}
+

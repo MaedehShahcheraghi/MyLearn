@@ -1,0 +1,33 @@
+﻿@using MyLearn.Core.Service.UserService;
+@model Tuple<int,int>
+
+@if(User.Identity.IsAuthenticated){
+    @if (ViewBag.IsAccess !=null)
+    {
+        <br />
+        <div class="row">
+          
+            <p>
+                <a class="btn btn-success" onclick="Vote(true)">
+                    <img src="/css/images/like (1).png" style=" float: right;
+    width: 2rem;
+    margin: 0;
+    margin-left: 12px;" />
+                    میپسندم (@Model.Item1)
+                </a>
+                <a class="btn btn-danger" onclick="Vote(false)">
+                    <img src="/css/images/dislike (1).png" style=" float: right;
+    width: 2rem;
+    margin: 0;
+    margin-left: 12px;" />
+                    نمیپسندم (@Model.Item2)
+                </a>
+            </p>
+
+        </div>
+    }
+}else{
+   <div class="alert alert-info">
+       جهت  رای دهی به دوره ابتدا باید وارد سایت شوید.
+   </div>
+}

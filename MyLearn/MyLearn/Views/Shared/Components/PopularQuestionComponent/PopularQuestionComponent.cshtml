@@ -1,0 +1,27 @@
+﻿@using MyLearn.DataLayer.Entities.Forum;
+@using TopLearn.Core.Convertors;
+@model List<Question>
+<div style="margin-top:2rem !important;">
+
+    <h1>آخرین پرسش ها</h1>
+    <hr />
+</div>
+<ul>
+    @foreach (var item in Model)
+    {
+
+        <li class="panel panel-success" style="margin-top:1rem;padding:0.8rem;">
+          
+          
+                <h3>
+                <a href="/Forum/ShowQuestion/@item.QuestionId">@item.QuestionTitle</a>
+            </h3>
+            
+         
+            <span class="text-muted">تعداد پاسخ ها:@item.Answers.Count</span>|
+            <span class="text-muted">تاریخ:@item.CreateQusetion.ToShamsi()</span>
+
+        </li>
+
+    }
+</ul>

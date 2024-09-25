@@ -1,0 +1,61 @@
+﻿@using MyLearn.DataLayer.Entities.Forum;
+
+@model Answer
+@{
+    ViewData["Title"] = "EditAnswer";
+}
+
+<main>
+    <div class="container">
+        <div class="user-account">
+            <div class="row justify-content-center">
+
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <section class="user-account-content">
+                        <header><h1>ویرایش پاسخ</h1></header>
+                        <div class="inner form-layer">
+                            <form asp-action="EditAnswer" asp-controller="Forum" method="post">
+
+
+                                <input type="hidden" asp-for="QuestionId" class="form-control" />
+                                <input type="hidden" asp-for="UserId" class="form-control" />
+                                <input type="hidden" asp-for="AnswerId" class="form-control" />
+                                <input type="hidden" asp-for="CreateAnswer" class="form-control" />
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <label class="text-muted">
+                                            بدنه جواب :
+                                        </label>
+                                        <div class="input-group">
+                                            <textarea asp-for="AnswerBody" class="form-control"></textarea>
+                                            <span asp-validation-for="AnswerBody" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                   
+
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <button class="btn btn-success">ویرایش جواب </button>
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+@section Scripts{
+    <script src="https://cdn.ckeditor.com/4.9.2/standard/ckeditor.js"></script>
+    <script>
+
+        CKEDITOR.replace('AnswerBody', {
+            customConfig: '/js/Config.js'
+        });
+
+    </script>
+}

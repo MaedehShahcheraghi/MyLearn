@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AspProject\\MyLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\areas\\userpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\areas\\userpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\areas\\userpanel\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\areas\\userpanel\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\views\\forum\\showquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\views\\forum\\showquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\areas\\userpanel\\views\\myorder\\showorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\areas\\userpanel\\views\\myorder\\showorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\areas\\userpanel\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\areas\\userpanel\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|d:\\aspproject\\mylearn\\mylearn\\areas\\userpanel\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF830B8C-1DA2-414F-96C1-82FFF85E36EC}|MyLearn\\MyLearn.csproj|solutionrelative:mylearn\\areas\\userpanel\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D1BFDF-DABD-47D0-83B9-BC2C477190DD}|MyLearn.Core\\MyLearn.Core.csproj|d:\\aspproject\\mylearn\\mylearn.core\\service\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D1BFDF-DABD-47D0-83B9-BC2C477190DD}|MyLearn.Core\\MyLearn.Core.csproj|solutionrelative:mylearn.core\\service\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D1BFDF-DABD-47D0-83B9-BC2C477190DD}|MyLearn.Core\\MyLearn.Core.csproj|d:\\aspproject\\mylearn\\mylearn.core\\service\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D1BFDF-DABD-47D0-83B9-BC2C477190DD}|MyLearn.Core\\MyLearn.Core.csproj|solutionrelative:mylearn.core\\service\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyLearn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyLearn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T19:39:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyLearn\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyLearn\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T19:38:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MyLearn\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "MyLearn\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:13:35.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "MyLearn\\Areas\\UserPanel\\Controllers\\MasterController.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "MyLearn\\Areas\\UserPanel\\Controllers\\MasterController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:16:16.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyLearn\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyLearn\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-28T18:56:20.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowQuestion.cshtml",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Views\\Forum\\ShowQuestion.cshtml",
+              "RelativeDocumentMoniker": "MyLearn\\Views\\Forum\\ShowQuestion.cshtml",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Views\\Forum\\ShowQuestion.cshtml",
+              "RelativeToolTip": "MyLearn\\Views\\Forum\\ShowQuestion.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-19T08:47:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowOrder.cshtml",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Views\\MyOrder\\ShowOrder.cshtml",
+              "RelativeDocumentMoniker": "MyLearn\\Areas\\UserPanel\\Views\\MyOrder\\ShowOrder.cshtml",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Views\\MyOrder\\ShowOrder.cshtml",
+              "RelativeToolTip": "MyLearn\\Areas\\UserPanel\\Views\\MyOrder\\ShowOrder.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-19T08:39:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn.Core\\Service\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "MyLearn.Core\\Service\\OrderService\\OrderService.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn.Core\\Service\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "MyLearn.Core\\Service\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAwwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T08:39:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn.Core\\Service\\OrderService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MyLearn.Core\\Service\\OrderService\\IOrderService.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn.Core\\Service\\OrderService\\IOrderService.cs",
+              "RelativeToolTip": "MyLearn.Core\\Service\\OrderService\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T08:39:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "MyLearn\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "MyLearn\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T08:39:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyLearn\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyLearn\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T08:39:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyOrderController.cs",
+              "DocumentMoniker": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Controllers\\MyOrderController.cs",
+              "RelativeDocumentMoniker": "MyLearn\\Areas\\UserPanel\\Controllers\\MyOrderController.cs",
+              "ToolTip": "D:\\AspProject\\MyLearn\\MyLearn\\Areas\\UserPanel\\Controllers\\MyOrderController.cs",
+              "RelativeToolTip": "MyLearn\\Areas\\UserPanel\\Controllers\\MyOrderController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T08:39:38.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

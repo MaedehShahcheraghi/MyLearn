@@ -1,0 +1,55 @@
+﻿@page "{id}"
+@model MyLearn.Pages.Admin.Course.EditEpisodeModel
+@{
+}
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">افزودن بخش جدید</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+<div class="row">
+    <form method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="courseEpisode.CourseId" />
+        <input type="hidden" asp-for="courseEpisode.EpisodeFileName" />
+        <input type="hidden" asp-for="courseEpisode.EpisodeId" />
+        <div class="col-md-12">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    اطلاعات دوره
+                </div>
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label>نام بخش</label>
+                        <input type="text" asp-for="courseEpisode.EpisodeTitle" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>زمان بخش</label>
+                        <input type="text" asp-for="courseEpisode.EpisodeTime" class="form-control">
+                    </div>
+                    <div class="checkbox">
+                        <input type="checkbox" asp-for="courseEpisode.IsFree" />رایگان است
+
+                    </div>
+                    <div class="form-group">
+                        <label>فایل دوره</label>
+                        <input type="file" name="Episodefile">
+
+                    </div>
+                    @if (ViewData["IsExist"] != null)
+                    {
+                        <div class="alert alert-danger">
+                            <P>لطفا فایل دیگری انتخاب کنید یا نام فایل را تغییر دهید</P>
+                        </div>
+                    }
+
+                    <input type="submit" value="ویرایش دوره" class="btn btn-success" />
+
+
+                </div>
+
+            </div>
+        </div>
+    </form>
+</div>

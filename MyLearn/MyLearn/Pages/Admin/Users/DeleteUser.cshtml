@@ -1,0 +1,30 @@
+﻿@page "{id}"
+@model MyLearn.Pages.Admin.Users.DeleteUserModel
+@{
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Description Lists
+    </div>
+    <div class="panel-body">
+        <form method="post">
+            <input type="hidden" value="@ViewData["userId"].ToString()" />
+            <dl>
+                <dt>نام کاربری</dt>
+                <dd>@Model.user.Email</dd>
+                <dt>ایمیل</dt>
+                <dd>@Model.user.UserName</dd>
+
+                <dt>تاریخ عضویت</dt>
+                <dd>@Model.user.RegisterDate</dd>
+                <dt>نقش ها</dt>
+             
+
+            </dl>
+            <input type="submit" value="حذف" class="btn btn-danger" />
+        </form>
+
+    </div>
+    <!-- /.panel-body -->
+</div>

@@ -1,0 +1,54 @@
+﻿@using MyLearn.Core.Dtos.UserPanel;
+@using MyLearn.Core.Service.PermissionService;
+@using MyLearn.Core.Service.UserService;
+@using MyLearn.DataLayer.Entities.Permission;
+@using TopLearn.Core.Convertors;
+@inject IPermissionService permission;
+@inject IUserService userservice;
+@{
+    SideBarUserPanelViewModel sideBar = userservice.GetSideBarUserPanel(User.Identity.Name);
+}
+
+<div class="col-md-3 col-sm-4 col-xs-12">
+    <aside>
+
+        <div class="avatar-layer">
+            <div class="img-layer">
+                <a href="" class="change-image"><i class="zmdi zmdi-edit"></i></a>
+                <img src="/UserAvatar/@sideBar.ImageName">
+            </div>
+            <div class="detail">
+                <span> @sideBar.UserName </span>
+                <span> عضویت : @sideBar.RegisterDate.ToShamsi() </span>
+            </div>
+        </div>
+
+        <section>
+            <header><h3> میز کار </h3></header>
+            <div class="inner">
+                <ul>
+                    <li><a href="/UserPanel"> مشاهده حساب کابری </a></li>
+                    <li><a href="/UserPanel/EditProfile"> ویرایش حساب کابری </a></li>
+                    <li><a href="/UserPanel/ChangePassword"> تغییر رمز عبور </a></li>
+                    <li><a href="/UserPanel/Wallet"> کیف پول من </a></li>
+                    <li><a href="/UserPanel/MyOrder"> فاکتور های من </a></li>
+
+                    <li><a href="/UserPanel/Wallet"> تنظیمات حساب کاربری </a></li>
+                    <li><a href="/Logout"> خروج از حساب کاربری </a></li>
+                </ul>
+            </div>
+        </section>
+        @if (permission.CheckPermissionUser(User.Identity.Name,14))
+        {
+            <section>
+                <header><h3> پنل استاد </h3></header>
+                <div class="inner">
+                    <ul>
+                        <li><a href="/UserPanel/ListCourses"> مشاهده دوره ها </a></li>
+
+                    </ul>
+                </div>
+            </section>
+        }
+    </aside>
+</div>

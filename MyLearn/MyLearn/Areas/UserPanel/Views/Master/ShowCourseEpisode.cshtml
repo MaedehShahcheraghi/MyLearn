@@ -1,0 +1,72 @@
+﻿@using MyLearn.DataLayer.Entities.Course;
+@model List<CourseEpisode>
+
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+            <li class="breadcrumb-item active" aria-current="page">بخش های شما</li>
+        </ul>
+    </nav>
+</div>
+
+
+<main>
+    <div class="container">
+        <div class="user-account">
+           
+            <div class="row">
+                <partial name="_SideBar" />
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                
+                    <section class="user-account-content">
+                        <div class="inner form-layer">
+
+                            <header><h1> بخش های شما</h1></header>
+                            <hr />
+                            <div class="panel">
+                             
+                                <a class="btn btn-primary " asp-action="AddEpisode" asp-route-courseId="@ViewBag.courseId">افزودن قسمت</a>
+
+                            </div>
+
+                            <table class="table table-bordered">
+                                <tr>
+                                    <th>عنوان بخش</th>
+                                    <th>مدت بخش</th>
+                                    <th>وضعیت </th>
+                                    <th>دستورات</th>
+
+                                </tr>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @item.EpisodeTitle
+                                        </td>
+                                        <td>@item.EpisodeTime</td>
+
+                                        <td>@(item.IsFree ? "رایگان" : "نقدی")</td>
+                                        <td>
+                                            <a class="btn btn-info " asp-action="EditCourseEpisode" asp-controller="Master" asp-route-id="@item.CourseId">ویرایش قسمت</a>
+                                            <a class="btn btn-danger " asp-action="DeleteCourseEpisode" asp-controller="Master" asp-route-id="@item.CourseId">حذف قسمت</a>
+
+                                        </td>
+
+                                    </tr>
+                                }
+
+
+
+                            </table>
+
+
+                        </div>
+
+                    </section>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

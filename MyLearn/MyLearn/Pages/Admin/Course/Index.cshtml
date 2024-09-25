@@ -1,0 +1,66 @@
+﻿@page
+@model MyLearn.Pages.Admin.Course.IndexModel
+@{
+}
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">مدیریت دوره ها </h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading ">
+                <a href="/Admin/Course/CreateCourse" class="btn btn-success">افزودن دوره ی جدید</a>
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline" role="grid">
+
+                        <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example" aria-describedby="dataTables-example_info">
+                            <thead>
+                                <tr>
+                                    <th>تصویر دوره </th>
+
+                                    <th>نام دوره</th>
+                                    <th>تعداد جلسات دوره</th>
+                                    <th>دستورات</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (var item in Model.showCourses)
+                                {
+                                    <tr class="gradeA odd">
+                                        <td>
+                                            <img src="~/Course/thump/@item.ImageName" style="max-width:100px;" />
+                                        </td>
+                                        <td>@item.CourseName</td>
+                                        <td>@item.EpisodeCount</td>
+
+                                        <td>
+                                            <a class="btn btn-warning " href="/Admin/Course/EditCourse/@item.CourseId">ویرایش</a>
+                                            <a class="btn btn-primary " href="/Admin/Course/IndexEpisode/@item.CourseId">افزودن بخش به دوره</a>
+
+                                            <a class="btn btn-danger " href="/Admin/Admin/DeleteCourse/@item.CourseId">حذف</a>
+                                        </td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+
+                    </div>
+
+
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+        <!-- /.col-lg-12 -->
+    </div>

@@ -1,0 +1,7 @@
+﻿@using MyLearn.Core.Dtos.Admin.Course;
+@model List<CourseViewModel>
+
+@foreach(var item in Model){
+    <partial name="_BoxCourse" model="@item" />
+
+}

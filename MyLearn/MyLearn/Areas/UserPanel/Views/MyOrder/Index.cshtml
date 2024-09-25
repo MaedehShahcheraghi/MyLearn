@@ -1,0 +1,57 @@
+﻿@using MyLearn.DataLayer.Entities.Order;
+@using TopLearn.Core.Convertors;
+@model List<Order>
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+            <li class="breadcrumb-item active" aria-current="page">فاکتور های شما</li>
+        </ul>
+    </nav>
+</div>
+
+<main>
+    <div class="container">
+        <div class="user-account">
+            <div class="row">
+                <partial name="_SideBar" />
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <section class="user-account-content">
+                        <div class="inner form-layer">
+
+                            <header><h1> فاکتورهای شما</h1></header>
+                            <hr />
+                        
+
+                            <table class="table table-bordered">
+                                <tr>
+                                    <th>شماره فاکتور</th>
+                                    <th>جمع فاکتور</th>
+                                    <th>تاریخ</th>
+                                    <th>دستورات</th>
+                                </tr>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.OrderId</td>
+                                        <td>@item.OrdrSum</td>
+
+                                        <td>@item.CreateDate.ToShamsi()</td>
+                                        <td><a href="/UserPanel/MyOrder/ShowOrder/@item.OrderId">مشاهده</a></td>
+                                    </tr>
+                                }
+                             
+                        
+
+                            </table>
+                          
+
+                        </div>
+
+                    </section>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

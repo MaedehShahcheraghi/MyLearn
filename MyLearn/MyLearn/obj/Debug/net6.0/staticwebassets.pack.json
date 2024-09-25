@@ -1,0 +1,1061 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\sb-admin.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\AdminContent\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\sb-admin.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\CourseFreeOnline\\7-0c3d1db5-bde8-43fc-abe1-ee2fb5168510.mp4",
+      "PackagePath": "staticwebassets\\CourseFreeOnline\\7-0c3d1db5-bde8-43fc-abe1-ee2fb5168510.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\CourseOnline\\926f075c194841cda8ad5d23afb93dd2.mp4",
+      "PackagePath": "staticwebassets\\CourseOnline\\926f075c194841cda8ad5d23afb93dd2.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\40f8ff7c26904ff698fea0b1d65574af.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\40f8ff7c26904ff698fea0b1d65574af.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\45c3e5de1d334ddc8eddd0d9aa912577.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\45c3e5de1d334ddc8eddd0d9aa912577.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\5dba29ac97b046189c74ab317e37aada.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\5dba29ac97b046189c74ab317e37aada.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\65f3a8a3486c452d8afa7e715b5b5628.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\65f3a8a3486c452d8afa7e715b5b5628.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\6b4861a2b31a4683b0a78626c1072ba8.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\6b4861a2b31a4683b0a78626c1072ba8.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\7b014745ffa74e3489ea75b0bad3af4e.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\7b014745ffa74e3489ea75b0bad3af4e.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\ae4997fef8a84a0aab4cf74c5ef4cba0.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\ae4997fef8a84a0aab4cf74c5ef4cba0.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\bf96a41b02b24fab882ad8b26032396e.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\bf96a41b02b24fab882ad8b26032396e.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\c6d9496c2178450590b381e86508d563.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\c6d9496c2178450590b381e86508d563.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseDemo\\d729cc9f639c40b197b79e11ee0c4077.mp4",
+      "PackagePath": "staticwebassets\\Course\\CourseDemo\\d729cc9f639c40b197b79e11ee0c4077.mp4"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\050886862dbf4964b5001f777c7bce2d.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\050886862dbf4964b5001f777c7bce2d.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\0b4d75b1f52d4a8a8e6a98029bcb6007.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\0b4d75b1f52d4a8a8e6a98029bcb6007.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\1ffb0981a4054b01a7c5200087dc21e2.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\1ffb0981a4054b01a7c5200087dc21e2.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\7168590f647b4718975c6c4840d24730.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\7168590f647b4718975c6c4840d24730.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\9585493e5b5245eca45c32e82db43fcc.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\9585493e5b5245eca45c32e82db43fcc.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\97224c61650e47a0885c7fab74495b08.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\97224c61650e47a0885c7fab74495b08.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\976a36b498f44a1f8ed5ae3224e96dff.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\976a36b498f44a1f8ed5ae3224e96dff.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\c2f2ec7be9bf4c39a99c1a64e5bc6da6.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\c2f2ec7be9bf4c39a99c1a64e5bc6da6.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\d0a1e170073549509d6e43025abd75ec.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\d0a1e170073549509d6e43025abd75ec.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\e0aadf9bc8f64b9aa8875e021974e7b1.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\e0aadf9bc8f64b9aa8875e021974e7b1.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\f9f89b27cf174a2e907c9cd7311603e3.jpg",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\f9f89b27cf174a2e907c9cd7311603e3.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\CourseImage\\no-pictures.png",
+      "PackagePath": "staticwebassets\\Course\\CourseImage\\no-pictures.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\034408ac694941dc96a758f4352ed4eb.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\034408ac694941dc96a758f4352ed4eb.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\06b3c0a6de5d4ab399583666a67e0086.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\06b3c0a6de5d4ab399583666a67e0086.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\0fafc2297d984555bee7adeb9afa2b97.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\0fafc2297d984555bee7adeb9afa2b97.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\25991b88f7784dc29f7f9836abe104e4.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\25991b88f7784dc29f7f9836abe104e4.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\26f9bd9c5055400c8aa60bd909222836.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\26f9bd9c5055400c8aa60bd909222836.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\30947379dbf648538de7115e4807c7f6.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\30947379dbf648538de7115e4807c7f6.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\3194995c54fd4747935386cefae0dab9.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\3194995c54fd4747935386cefae0dab9.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\38c70e725f2a40c3b3866eb90d280ead.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\38c70e725f2a40c3b3866eb90d280ead.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\6f52ef8ce8e54a4cb7a877a2803e8e2e.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\6f52ef8ce8e54a4cb7a877a2803e8e2e.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-01bcc3cc-5788-48e0-9e1a-67eea0b9e3f6.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-01bcc3cc-5788-48e0-9e1a-67eea0b9e3f6.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-0c3d1db5-bde8-43fc-abe1-ee2fb5168510.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-0c3d1db5-bde8-43fc-abe1-ee2fb5168510.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-1a9abe50-e71e-413a-924c-f675543c6d53.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-1a9abe50-e71e-413a-924c-f675543c6d53.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-2998e4d7-c3da-4f4b-b1b0-660247ae2c47.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-2998e4d7-c3da-4f4b-b1b0-660247ae2c47.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-3dd61b0c-196e-45ff-8bfb-e7a34c27371f.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-3dd61b0c-196e-45ff-8bfb-e7a34c27371f.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-4dbb96bc-4eaf-4094-8252-3ee2f9a4a8b1.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-4dbb96bc-4eaf-4094-8252-3ee2f9a4a8b1.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-782fa07e-a004-4833-b20a-791b401e3bfd.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-782fa07e-a004-4833-b20a-791b401e3bfd.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-86f881fb-b332-47d9-9701-3d4034217600.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-86f881fb-b332-47d9-9701-3d4034217600.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\7-f7169f24-916b-4ad0-a1e7-623f2d91fcf4.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\7-f7169f24-916b-4ad0-a1e7-623f2d91fcf4.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\77c3c6cd56c14de5b992a76b05da2a4c.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\77c3c6cd56c14de5b992a76b05da2a4c.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\926f075c194841cda8ad5d23afb93dd2.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\926f075c194841cda8ad5d23afb93dd2.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\9d2ae0d6942747caae891b27bf6f1eb5.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\9d2ae0d6942747caae891b27bf6f1eb5.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\a9ad9e64c2684e31bdfffcec61f153e3.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\a9ad9e64c2684e31bdfffcec61f153e3.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\b4d53804609146288f61b68a5c0be2b5.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\b4d53804609146288f61b68a5c0be2b5.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\e3f3a24da4684ec186572dbb60cd3d9e.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\e3f3a24da4684ec186572dbb60cd3d9e.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\EpisodeFile\\f12f4558abec4a81b0fd6deb09c77a04.rar",
+      "PackagePath": "staticwebassets\\Course\\EpisodeFile\\f12f4558abec4a81b0fd6deb09c77a04.rar"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\050886862dbf4964b5001f777c7bce2d.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\050886862dbf4964b5001f777c7bce2d.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\0b4d75b1f52d4a8a8e6a98029bcb6007.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\0b4d75b1f52d4a8a8e6a98029bcb6007.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\1ffb0981a4054b01a7c5200087dc21e2.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\1ffb0981a4054b01a7c5200087dc21e2.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\7168590f647b4718975c6c4840d24730.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\7168590f647b4718975c6c4840d24730.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\9585493e5b5245eca45c32e82db43fcc.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\9585493e5b5245eca45c32e82db43fcc.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\97224c61650e47a0885c7fab74495b08.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\97224c61650e47a0885c7fab74495b08.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\976a36b498f44a1f8ed5ae3224e96dff.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\976a36b498f44a1f8ed5ae3224e96dff.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\c2f2ec7be9bf4c39a99c1a64e5bc6da6.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\c2f2ec7be9bf4c39a99c1a64e5bc6da6.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\d0a1e170073549509d6e43025abd75ec.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\d0a1e170073549509d6e43025abd75ec.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\e0aadf9bc8f64b9aa8875e021974e7b1.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\e0aadf9bc8f64b9aa8875e021974e7b1.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\f9f89b27cf174a2e907c9cd7311603e3.jpg",
+      "PackagePath": "staticwebassets\\Course\\thump\\f9f89b27cf174a2e907c9cd7311603e3.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\Course\\thump\\no-pictures.png",
+      "PackagePath": "staticwebassets\\Course\\thump\\no-pictures.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\MyImages\\c142270b-7378-4aee-b984-0986ae581598.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\c142270b-7378-4aee-b984-0986ae581598.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\MyImages\\f4c9ebc4-412b-4815-9f48-aa79ca59afa6.png",
+      "PackagePath": "staticwebassets\\MyImages\\f4c9ebc4-412b-4815-9f48-aa79ca59afa6.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\UserAvatar\\1689fc591f4d4783a21343223d8cfc84.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\1689fc591f4d4783a21343223d8cfc84.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\UserAvatar\\Defult.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\Defult.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\UserAvatar\\b5c8d795bc4f4124866bf9e70341e6c8.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\b5c8d795bc4f4124866bf9e70341e6c8.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\UserAvatar\\e0457116a4744ba7908298f0aec1ed76.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\e0457116a4744ba7908298f0aec1ed76.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\CustomCss.css",
+      "PackagePath": "staticwebassets\\css\\CustomCss.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\css\\style.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\css\\images\\Logo.svg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\captcha.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\captcha.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\dislike (1).png",
+      "PackagePath": "staticwebassets\\css\\images\\dislike (1).png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\like (1).png",
+      "PackagePath": "staticwebassets\\css\\images\\like (1).png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\logo.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\css\\images\\pattern.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\1.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\2.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\3.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\4.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\5.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\6.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\7.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\8.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\avatar.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\big-thumb.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\big-thumb.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\logo.svg",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\logo.svg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\namad-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\namad-1.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\pic\\namad.png",
+      "PackagePath": "staticwebassets\\css\\images\\pic\\namad.png"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\slide.jpg"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\css\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\css\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\css\\js\\modernizr-custom.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\js\\script.js",
+      "PackagePath": "staticwebassets\\css\\js\\script.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\noUiSlider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\css\\noUiSlider\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\noUiSlider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\css\\noUiSlider\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\css\\style3.css",
+      "PackagePath": "staticwebassets\\css\\style3.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\Config.js",
+      "PackagePath": "staticwebassets\\js\\Config.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\kendo.all.min.js",
+      "PackagePath": "staticwebassets\\js\\kendo.all.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-custom.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AspProject\\MyLearn\\MyLearn\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyLearn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyLearn.props",
+      "PackagePath": "build\\MyLearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyLearn.props",
+      "PackagePath": "buildMultiTargeting\\MyLearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyLearn.props",
+      "PackagePath": "buildTransitive\\MyLearn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

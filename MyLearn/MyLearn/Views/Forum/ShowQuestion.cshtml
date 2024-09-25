@@ -1,0 +1,121 @@
+﻿@using MyLearn.Core.Dtos.Forum;
+@using System.Security.Claims;
+@using TopLearn.Core.Convertors;
+
+@model ShowQuestionViewModel
+
+@{
+    ViewData["Title"] = "پرسش " + Model.question.QuestionTitle;
+}
+<style>
+    .IsTrue {
+        border: 2px solid green !important;
+    }
+</style>
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/"> تاپ لرن </a></li>
+            <li class="breadcrumb-item"><a href="/Forum/Questions"> پرسش و پاسخ </a></li>
+            <li class="breadcrumb-item active" aria-current="page"> @Model.question.QuestionTitle </li>
+        </ul>
+    </nav>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-sm-12 col-xs-12">
+            <div class="inner">
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h1>@Model.question.QuestionTitle</h1>
+
+                    </div>
+                    <div class="panel-body">
+                        @Html.Raw(Model.question.QuestionBody)
+                    </div>
+                    <div class="panel-footer">
+                        <img src="~/UserAvatar/@Model.question.User.AvatarName" style="max-width: 50px; border-radius: 20px;" />
+                        @Model.question.User.UserName | @Model.question.CreateQusetion.ToShamsi()
+                        @if (User.Identity.IsAuthenticated && Model.question.UserId == Convert.ToInt32(User.FindFirstValue(ClaimTypes.NameIdentifier)))
+                        {
+                            <a class="btn btn-success pull-left" href="/Forum/EditQuestion/@Model.question.QuestionId">ویرایش  سوال</a>
+
+                        }
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="inner" style="margin-top: 25px;">
+
+                @if (Model.Answers.Any())
+                {
+                    
+             
+                @foreach (var answer in Model.Answers)
+                {
+                    <div class="panel @*@((answer.IsTrue==true)?"IsTrue":"")*@ ">
+                        <div class="panel-heading">
+                            <img src="~/UserAvatar/@answer.User.AvatarName" style="max-width: 40px; border-radius: 20px;" />
+                            @answer.User.UserName | @answer.CreateAnswer.ToShamsi()
+                        </div>
+                        <div class="panel-body">
+                            @Html.Raw(answer.AnswerBody)
+                            @if (User.Identity.IsAuthenticated && Model.question.UserId == Convert.ToInt32(User.FindFirstValue(ClaimTypes.NameIdentifier)))
+                            {
+                                <p class="pull-left">
+                                    <a class="btn btn-success" href="/Forum/TrueAnswer/@Model.question.QuestionId?answerId=@answer.AnswerId">افزودن به عنوان پاسخ صحیح</a>
+                                </p>
+                            }
+                            @if (User.Identity.IsAuthenticated && answer.UserId == Convert.ToInt32(User.FindFirstValue(ClaimTypes.NameIdentifier)))
+                            {
+                                <a class="btn btn-info" href="/Forum/EditAnswer/@answer.AnswerId">ویرایش پاسخ</a>
+                            }
+
+                        </div>
+                    </div>
+                    }   }
+            </div>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <div class="inner" style="margin-top: 25px;">
+                    <div class="panel">
+                        <div class="panel-heading">
+                            <h1 style="font-size: 18px;" class="text-success text-muted">افزودن پاسخ جدید</h1>
+                        </div>
+                        <div class="panel-body">
+                            <form method="post" asp-action="AddAnswer">
+                                <input type="hidden" name="QuestionId" value="@Model.question.QuestionId" />
+                                <div class="form-group">
+                                    <textarea name="SendAnswer" class="form-control"></textarea>
+                                    <button class="btn btn-block btn-success" style="margin-top: 20px; height: 50px; font-size:15px;" type="submit">ثبت پاسخ شما</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="col-md-4 panel">
+            @await Component.InvokeAsync("PopularQuestionComponent")
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts
+    {
+    <script src="https://cdn.ckeditor.com/4.15.1/standard/ckeditor.js"></script>
+    <script>
+
+        CKEDITOR.replace('SendAnswer', {
+            customConfig: '/js/Config.js'
+        });
+
+    </script>
+}3
+
