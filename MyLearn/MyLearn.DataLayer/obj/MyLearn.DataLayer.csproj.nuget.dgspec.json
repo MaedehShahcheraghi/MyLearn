@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {}
+    "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
+    "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
+        "projectUniqueName": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
         "projectName": "MyLearn.DataLayer",
-        "projectPath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
+        "projectPath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\obj\\",
+        "outputPath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

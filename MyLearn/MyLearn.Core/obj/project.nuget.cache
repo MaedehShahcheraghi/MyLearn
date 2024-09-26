@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+hsdXPnzAg=",
+  "dgSpecHash": "xgEjTM3ndsY=",
   "success": true,
-  "projectFilePath": "D:\\AspProject\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj",
+  "projectFilePath": "E:\\git publish\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\corecompat.system.drawing.v2\\5.2.0-preview1-r131\\corecompat.system.drawing.v2.5.2.0-preview1-r131.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\imageprocessor.core.corecompat\\1.3.0\\imageprocessor.core.corecompat.1.3.0.nupkg.sha512",

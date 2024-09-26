@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspProject\\MyLearn\\MyLearn\\MyLearn.csproj": {}
+    "E:\\git publish\\MyLearn\\MyLearn\\MyLearn.csproj": {}
   },
   "projects": {
-    "D:\\AspProject\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj": {
+    "E:\\git publish\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj",
+        "projectUniqueName": "E:\\git publish\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj",
         "projectName": "MyLearn.Core",
-        "projectPath": "D:\\AspProject\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj",
+        "projectPath": "E:\\git publish\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\MyLearn\\MyLearn.Core\\obj\\",
+        "outputPath": "E:\\git publish\\MyLearn\\MyLearn.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
-                "projectPath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj"
+              "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
+                "projectPath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
+    "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
+        "projectUniqueName": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
         "projectName": "MyLearn.DataLayer",
-        "projectPath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
+        "projectPath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\obj\\",
+        "outputPath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "D:\\AspProject\\MyLearn\\MyLearn\\MyLearn.csproj": {
+    "E:\\git publish\\MyLearn\\MyLearn\\MyLearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\MyLearn\\MyLearn\\MyLearn.csproj",
+        "projectUniqueName": "E:\\git publish\\MyLearn\\MyLearn\\MyLearn.csproj",
         "projectName": "MyLearn",
-        "projectPath": "D:\\AspProject\\MyLearn\\MyLearn\\MyLearn.csproj",
+        "projectPath": "E:\\git publish\\MyLearn\\MyLearn\\MyLearn.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\MyLearn\\MyLearn\\obj\\",
+        "outputPath": "E:\\git publish\\MyLearn\\MyLearn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,11 +190,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AspProject\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj": {
-                "projectPath": "D:\\AspProject\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj"
+              "E:\\git publish\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj": {
+                "projectPath": "E:\\git publish\\MyLearn\\MyLearn.Core\\MyLearn.Core.csproj"
               },
-              "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
-                "projectPath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj"
+              "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj": {
+                "projectPath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj"
               }
             }
           }

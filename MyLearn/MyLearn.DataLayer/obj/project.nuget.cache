@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W3j+0AReoJQ=",
+  "dgSpecHash": "ni66yBlA/78=",
   "success": true,
-  "projectFilePath": "D:\\AspProject\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
+  "projectFilePath": "E:\\git publish\\MyLearn\\MyLearn.DataLayer\\MyLearn.DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
